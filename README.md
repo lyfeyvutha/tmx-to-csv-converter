@@ -52,11 +52,7 @@ This script assumes that the source language is English ('en') and the target la
 
 ## Author
 
-[Chealyfey Vutha]
-
-## License
-
-Here's a simple paragraph for the license section in your README file:
+[Chealyfey Vutha](https://github.com/lyfeyvutha)
 
 ## License
 
