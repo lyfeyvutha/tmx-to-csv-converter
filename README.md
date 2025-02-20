@@ -2,7 +2,7 @@
 
 ## Description
 
-This Python script automates the process of converting Translation Memory eXchange (TMX) files compressed in .gz format to CSV files. It's designed to handle English-Khmer language pairs, extracting source (English) and target (Khmer) sentences from TMX files and saving them in a structured CSV format.
+This Python script automates the process of converting Translation Memory eXchange (TMX) files compressed in .gz format to CSV files. I designed it to handle English-Khmer language pairs, extracting source (English) and target (Khmer) sentences from TMX files and saving them in a structured CSV format.
 
 ## Features
 
